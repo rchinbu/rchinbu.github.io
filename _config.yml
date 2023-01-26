@@ -52,12 +52,12 @@ topics:
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Julia
-      web_url: https://github.com/topics/julia
+    web_url: https://github.com/topics/julia
 
 
   - name: SageMath
-    # web_url: https://github.com/topics/julia
+    web_url: https://www.sagemath.org/index.html
     # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-    name: LaTeX
+  - name: LaTeX
     web_url: https://github.com/topics/latex
